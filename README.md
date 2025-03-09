@@ -1,6 +1,7 @@
 ### Email Classification and Processing System
 
-![emailAgent-github](https://github.com/user-attachments/assets/ac3f20a3-594c-4237-94ce-825429fa5159)
+![image](https://github.com/user-attachments/assets/7e817bd1-1598-4019-a53c-702a78685e12)
+
 
 An intelligent system that processes incoming emails, extracts their content, and uses AWS Bedrock with Claude to classify them based on their content and required action.
 
